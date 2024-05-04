@@ -1,0 +1,6 @@
+[submodule "vliw"]
+	path = vliw
+	url = git@github.com:YconquestY/vliw470.git
+[submodule "ooo"]
+	path = ooo
+	url = git@github.com:YconquestY/ooo470.git
